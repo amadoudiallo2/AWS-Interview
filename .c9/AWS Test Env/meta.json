@@ -1,0 +1,5 @@
+{
+  "id": "AWS Test Env",
+  "configuration": "file:///home/ec2-user/environment/.c9",
+  "name": "AWS Test Env"
+}
